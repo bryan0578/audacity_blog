@@ -1,1 +1,1 @@
-# audacity_blog
+# Udacity Blog Project
